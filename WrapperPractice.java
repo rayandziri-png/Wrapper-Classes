@@ -32,7 +32,7 @@ public class WrapperPractice {
         // automatic integer object to primitive int
         int unboxedInt = autoBoxedInt;
 
-        // Print everything so you can see it works
+        // printing everything out so you can see that it works 
         System.out.println("Integer object: " + intObj);
         System.out.println("Primitive int: " + primitiveInt);
         System.out.println("Double object: " + doubleObj);
