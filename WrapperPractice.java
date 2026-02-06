@@ -29,7 +29,7 @@ public class WrapperPractice {
         Integer autoBoxedInt = 25;
 
         // Unboxing
-        // automatic nteger object to primitive int
+        // automatic integer object to primitive int
         int unboxedInt = autoBoxedInt;
 
         // Print everything so you can see it works
